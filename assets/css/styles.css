@@ -319,19 +319,19 @@ img {
   z-index: var(--z-back);
 }
 
-.skills__html {
-  width: 95%;
+.skills__php {
+  width: 75%;
 }
 
-.skills__css {
-  width: 85%;
+.skills__laravel {
+  width: 60%;
+}
+
+.skills__bootstrap {
+  width: 75%;
 }
 
 .skills__js {
-  width: 65%;
-}
-
-.skills__ux {
   width: 85%;
 }
 
